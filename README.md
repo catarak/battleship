@@ -13,8 +13,8 @@ $ ./battle (-f)(-n)(-s)
 ```
 
 * The -f flag means that the computer goes first, otherwise the order is chosen randomly. 
-*The -n means no submarines, which changes the set of ships on the board so that there are no ships of length 1. 
-*The -s flags means the computer plays with a strategy instead of guessing randomly.
+* The -n means no submarines, which changes the set of ships on the board so that there are no ships of length 1. 
+* The -s flags means the computer plays with a strategy instead of guessing randomly.
 
 When a game begins, a player's ships and the computers ships 
 are placed randomly. 
